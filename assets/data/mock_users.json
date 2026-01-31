@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alex Thompson",
+      "email": "alex.thompson@email.com",
+      "avatarUrl": "https://i.pravatar.cc/150?img=1",
+      "rank": 1,
+      "score": 9850
+    },
+    {
+      "id": "2",
+      "name": "Sarah Chen",
+      "email": "sarah.chen@email.com",
+      "avatarUrl": "https://i.pravatar.cc/150?img=5",
+      "rank": 2,
+      "score": 9420
+    },
+    {
+      "id": "3",
+      "name": "Marcus Johnson",
+      "email": "marcus.j@email.com",
+      "avatarUrl": "https://i.pravatar.cc/150?img=3",
+      "rank": 3,
+      "score": 8975
+    },
+    {
+      "id": "4",
+      "name": "Emily Rodriguez",
+      "email": "emily.r@email.com",
+      "avatarUrl": "https://i.pravatar.cc/150?img=9",
+      "rank": 4,
+      "score": 8650
+    },
+    {
+      "id": "5",
+      "name": "Saad Akram",
+      "email": "test@gmail.com",
+      "avatarUrl": "https://i.pravatar.cc/150?img=12",
+      "rank": 5,
+      "score": 8200
+    },
+    {
+      "id": "6",
+      "name": "David Kim",
+      "email": "david.kim@email.com",
+      "avatarUrl": "https://i.pravatar.cc/150?img=7",
+      "rank": 6,
+      "score": 7890
+    },
+    {
+      "id": "7",
+      "name": "Jessica Miller",
+      "email": "jessica.m@email.com",
+      "avatarUrl": "https://i.pravatar.cc/150?img=10",
+      "rank": 7,
+      "score": 7540
+    },
+    {
+      "id": "8",
+      "name": "Ryan Cooper",
+      "email": "ryan.cooper@email.com",
+      "avatarUrl": "https://i.pravatar.cc/150?img=11",
+      "rank": 8,
+      "score": 7200
+    },
+    {
+      "id": "9",
+      "name": "Amanda Foster",
+      "email": "amanda.f@email.com",
+      "avatarUrl": "https://i.pravatar.cc/150?img=16",
+      "rank": 9,
+      "score": 6850
+    },
+    {
+      "id": "10",
+      "name": "Chris Martinez",
+      "email": "chris.m@email.com",
+      "avatarUrl": "https://i.pravatar.cc/150?img=8",
+      "rank": 10,
+      "score": 6500
+    }
+  ]
+}
