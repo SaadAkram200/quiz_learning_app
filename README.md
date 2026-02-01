@@ -2,6 +2,9 @@
 
 A responsive Flutter Quiz Learning App that works on both Web and Mobile platforms. This app demonstrates clean architecture, state management with Riverpod, routing with GoRouter, and a playable quiz flow using the Open Trivia DB API.
 
+## Demo Video: 
+https://drive.google.com/file/d/1kTL8i-3JBrgoDfJ014pB_BWU0o1J9bPc/view?usp=sharing
+
 ## Features
 
 - **Authentication**: Login screen with email/password validation
